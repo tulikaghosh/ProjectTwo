@@ -8,6 +8,6 @@ import com.expenseapp.expenseapp.entity.User;
 @Repository
 public interface UserRepositoryDao extends JpaRepository<User, Integer>{
 	
-	//--------Add more if needed 
+	//-----Add more if needed 
 
 }
